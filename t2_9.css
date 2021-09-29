@@ -1,0 +1,12 @@
+div{
+		background-color: blue;
+		width: 500px;
+		color: white;
+		margin: auto;
+	}
+
+img{
+		float: right;
+		padding-left: 20px;
+		padding-bottom: 20px;
+	}

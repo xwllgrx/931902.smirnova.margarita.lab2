@@ -1,0 +1,13 @@
+.fl{
+		float: left;
+		background-color: aquamarine;
+		width: 210px;
+		height: 110px;
+		margin: 15px;
+	}
+
+.cl{
+		clear: both;
+		background-color: bisque;
+		width: 100%;
+	}

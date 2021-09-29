@@ -1,0 +1,15 @@
+.green {
+		background-color: green;
+		width: 450px;
+		color: white;
+		margin: auto;
+	}
+
+.blue {
+		background-color: blue;
+		width: 450px;
+		border: 40px;
+		padding: 40px;
+		color: white;
+		margin: auto;
+	}

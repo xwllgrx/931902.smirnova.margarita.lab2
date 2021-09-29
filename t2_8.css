@@ -1,0 +1,43 @@
+*
+	{
+		margin: 0;
+	}
+
+.blue
+	{
+		background-color: aqua;
+		position: relative;	
+		width: 200px;
+		height: 246px;
+		float: left;
+	}
+
+.or
+	{
+		background-color: bisque;	
+		position: absolute;	
+		width: 200px;
+		height: 100px;
+	}
+
+ul
+	{
+		padding-top: 15px;
+	}
+
+.text
+	{
+		background-color: darkgray;	
+		font-size: 11px;
+		line-height: 20px;
+		padding: 3px;
+	}
+
+footer
+	{
+		background-color: limegreen;
+		position: fixed;
+		bottom: 0;
+		width: 100em;
+		height: 40px;
+	}

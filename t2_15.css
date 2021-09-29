@@ -1,0 +1,14 @@
+.inline
+	{
+		display: inline-block;
+		background-color: aquamarine;
+		width: 150px;
+		height: 80px;
+		margin: 10px;
+	}
+
+.clear
+	{
+		background-color: bisque;
+		width: 100%;
+	}
