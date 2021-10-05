@@ -36,7 +36,7 @@ a
 		float: left;
 		width: 25%;
 		line-height: 25px;
-		padding: 0 4px;
+		padding: 0 5px;
  	}
 
  .right
@@ -51,6 +51,6 @@ a
  .content 
  	{
  		line-height: 25px;
- 		padding-left: 320px;
- 		padding-right: 170px;
+ 		padding-left: 27%;
+ 		padding-right: 18%;
  	}
