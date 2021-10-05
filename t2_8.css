@@ -3,19 +3,17 @@
 		margin: 0;
 	}
 
+
 .blue
 	{
 		background-color: aqua;
-		position: relative;	
-		width: 200px;
-		height: 246px;
 		float: left;
+		margin: 5px;
 	}
 
 .or
 	{
 		background-color: bisque;	
-		position: absolute;	
 		width: 200px;
 		height: 100px;
 	}
@@ -28,9 +26,10 @@ ul
 .text
 	{
 		background-color: darkgray;	
+		margin-left: 200px;
+		margin-top: -100px;
 		font-size: 11px;
 		line-height: 20px;
-		padding: 3px;
 	}
 
 footer
